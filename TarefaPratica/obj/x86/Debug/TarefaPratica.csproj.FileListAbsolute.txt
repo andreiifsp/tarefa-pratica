@@ -1,0 +1,18 @@
+E:\tarefa pratica\TarefaPratica\TarefaPratica\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\tarefa pratica\TarefaPratica\TarefaPratica\obj\x86\Debug\TarefaPratica.Form1.resources
+E:\tarefa pratica\TarefaPratica\TarefaPratica\obj\x86\Debug\TarefaPratica.Properties.Resources.resources
+E:\tarefa pratica\TarefaPratica\TarefaPratica\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\tarefa pratica\TarefaPratica\TarefaPratica\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\tarefa pratica\TarefaPratica\TarefaPratica\bin\Debug\TarefaPratica.exe
+E:\tarefa pratica\TarefaPratica\TarefaPratica\bin\Debug\TarefaPratica.pdb
+E:\tarefa pratica\TarefaPratica\TarefaPratica\obj\x86\Debug\TarefaPratica.exe
+E:\tarefa pratica\TarefaPratica\TarefaPratica\obj\x86\Debug\TarefaPratica.pdb
+F:\EXE\TarefaPratica\obj\x86\Debug\TarefaPratica.exe
+F:\EXE\TarefaPratica\obj\x86\Debug\TarefaPratica.pdb
+F:\EXE\TarefaPratica\bin\Debug\TarefaPratica.exe
+F:\EXE\TarefaPratica\bin\Debug\TarefaPratica.pdb
+F:\EXE\TarefaPratica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\EXE\TarefaPratica\obj\x86\Debug\TarefaPratica.Form1.resources
+F:\EXE\TarefaPratica\obj\x86\Debug\TarefaPratica.Properties.Resources.resources
+F:\EXE\TarefaPratica\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\EXE\TarefaPratica\obj\x86\Debug\GenerateResource.write.1.tlog
