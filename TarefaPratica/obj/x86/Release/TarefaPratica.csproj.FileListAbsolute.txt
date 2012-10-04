@@ -1,0 +1,9 @@
+E:\EXE\TarefaPratica\bin\Release\TarefaPratica.exe
+E:\EXE\TarefaPratica\bin\Release\TarefaPratica.pdb
+E:\EXE\TarefaPratica\obj\x86\Release\ResolveAssemblyReference.cache
+E:\EXE\TarefaPratica\obj\x86\Release\TarefaPratica.Form1.resources
+E:\EXE\TarefaPratica\obj\x86\Release\TarefaPratica.Properties.Resources.resources
+E:\EXE\TarefaPratica\obj\x86\Release\GenerateResource.read.1.tlog
+E:\EXE\TarefaPratica\obj\x86\Release\GenerateResource.write.1.tlog
+E:\EXE\TarefaPratica\obj\x86\Release\TarefaPratica.exe
+E:\EXE\TarefaPratica\obj\x86\Release\TarefaPratica.pdb
